@@ -1,6 +1,7 @@
 The problem was the following:
 
 FBattery Parsing
+
 For this problem, we’re going to have you parse data from a battery cycler. The goal is to see how charge capacity and discharge capacity change over 302 cycles of the battery.
 For each half cycle (either a charge or discharge), you should pull out the maximum capacity. Here are approximate values for the first cycles. You don’t need to get these exactly.
 (Check image with table, with "Cycle Number" "Charge Capacity" and "Discharge Capacity".)
